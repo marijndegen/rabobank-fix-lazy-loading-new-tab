@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Open MarijnDegen.nl from selection",
+  "version": "1.0",
+  "description": "Right-click selected text and open a new tab to marijndegen.nl/<selected-text>",
+  "permissions": [
+    "contextMenus",
+    "tabs"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  }
+}
