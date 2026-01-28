@@ -1,5 +1,5 @@
 /** Fill in your portofolio number, extract it from the URL you have when you go to your "beleggingsrekening" */
-export const portofolioNumber = "";
+const portofolioNumber = "";
 
 
 // Create the context menu item when the extension installs
