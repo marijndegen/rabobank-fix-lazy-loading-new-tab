@@ -1,10 +1,10 @@
 # rabobank-fix-lazy-loading-new-tab
 
 ## Problem
-Rabobank has lazy loading enabled for listing of effects, however, it is not possible to open them in a new tab (nor through context menu, nor through crtl click). 
+Rabobank has lazy loading enabled for listing of effects, however, it is not possible to open them in a new tab. Nor through context menu (right click), nor through crtl + click. 
 
 ## Solution
-This extension adds a context menu entry when selecting text, when clicked it opens the effect in a new tab. 
+This extension adds a context menu entry when selecting the isin text of the effect, when clicked it opens the effect in a new tab. 
 
 ## Usage
 
@@ -20,4 +20,4 @@ __Steps to load unpacked extension__
 5. Select the folder that contains the extension’s manifest.json.
 6. The extension will load immediately and appear in the extensions list.
    
-**Finally refresh the portofolio page, the context menu entry should be there under the name "open-isin-on-new-tab".**
+**Finally refresh the portofolio page, select the isin of the effect(stock, etf, etc.), the context menu entry should be there under the name "open-isin-on-new-tab".**
