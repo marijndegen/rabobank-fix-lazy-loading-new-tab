@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Open MarijnDegen.nl from selection",
+  "name": "rabobank-fix-lazy-loading-new-tab",
   "version": "1.0",
-  "description": "Right-click selected text and open a new tab to marijndegen.nl/<selected-text>",
+  "description": "https://github.com/marijndegen/rabobank-fix-lazy-loading-new-tab/",
   "permissions": [
     "contextMenus",
     "tabs"
