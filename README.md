@@ -1,7 +1,7 @@
 # rabobank-fix-lazy-loading-new-tab
 
 ## Problem
-Rabobank has lazy loading enabled for listing of effects, however, it is not possible to open them in a new tab. Nor through context menu (right click), nor through crtl + click. 
+Rabobank has lazy loading enabled for listing of effects, however, it is not possible to open them in a new tab. Nor through context menu (right click), nor through crtl + click, forcing you to reload the lazy loaded page (pain) every time you navigate back.
 
 ## Solution
 This extension adds a context menu entry when selecting the isin text of the effect, when clicked it opens the effect in a new tab. 
